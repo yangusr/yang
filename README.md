@@ -1,4 +1,4 @@
-YANG
+ YANG
 ====
 
 This repository contains a collection of YANG modules:
