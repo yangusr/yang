@@ -8,6 +8,8 @@ This repository contains a collection of YANG modules:
   * Vendor specific YANG modules
   * Open source YANG tools
 
+  * This repo is associated with netconfcentral.org for jenkins continuous builds, and gerrithub.io for gerrit review. 
+
 ***
 
 Directory Structure
